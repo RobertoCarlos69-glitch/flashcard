@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Química',
-    'O que é um carbono com ligação dupla?,
+    'O que é um carbono com ligação dupla?',
     'Carbono secundário: esses fazem ligações duplas com outros dois átomos de carbono pertencentes a mesma cadeia.'
 )
 
