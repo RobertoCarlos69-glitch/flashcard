@@ -21,3 +21,10 @@ criaCartao(
     'O que é mitocondria?',
     'organela citoplasmática membranosa, cuja principal função é a geração de energia através da síntese do trifosfato de adenosina (ATP).'
 )
+
+criaCartao(
+    'Química',
+    'O que é um carbono com ligação dupla?,
+    'Carbono secundário: esses fazem ligações duplas com outros dois átomos de carbono pertencentes a mesma cadeia.'
+)
+
