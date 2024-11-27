@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
+    'Livros',
     'O que é Darkside?',
-    'O Python é uma linguagem de programação'
+    'A DarkSide Books é uma editora dedicada à publicação de livros de terror, fantasia, true crime e thrillers.'
 )
 
 criaCartao(
