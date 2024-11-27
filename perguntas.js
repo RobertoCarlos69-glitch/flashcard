@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Engine's',
+    'O que é Unreal Engine 5?',
+    'A Unreal Engine permite que desenvolvedores e criadores de jogos em todos os setores criem conteúdo e experiências em 3D em tempo real de última geração.'
 )
 
 criaCartao(
-    'Programação',
+    'Esportes',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'O que é mitocondria?',
+    'organela citoplasmática membranosa, cuja principal função é a geração de energia através da síntese do trifosfato de adenosina (ATP).'
 )
